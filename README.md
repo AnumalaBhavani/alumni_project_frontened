@@ -1,3 +1,4 @@
+
 # AlumniConnect — Alumni Management & Career Networking Platform
 
 A full-stack web application for college alumni networking, mentorship, career opportunities, and engagement.
@@ -227,3 +228,6 @@ Admin dashboard shows top contributors ranked by total points.
 - [ ] Add rate limiting to auth endpoints
 - [ ] Remove demo auto-activation in `AuthService.registerAlumni()` — require admin approval
 - [ ] Add email verification on registration
+=======
+# alumni_project_frontened
+>>>>>>> 0a232b4d10d10d8ec6f2ce3ea3533d4b4cd6f603
